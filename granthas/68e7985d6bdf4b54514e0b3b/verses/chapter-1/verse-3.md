@@ -5,6 +5,7 @@ chapterNumber: 1
 verseNumber: 3
 ---
 
+<p>
 
 
 
@@ -23,13 +24,11 @@ verseNumber: 3
 
 
 
-
-<p><span style="font-family: Mangal, serif;">॥ यथेति ।</span> <span style="font-family: Mangal, serif;">यथा स्पष्टं भवति तथैतदुदाह</span></p>
-
-<p><span style="font-family: Mangal, serif;">रणनिष्ठतया </span></p>
+</p><p><span style="font-family: Mangal, serif;">॥ यथेति ।</span> <span style="font-family: Mangal, serif;">यथा स्पष्टं भवति तथैतदुदाह</span><br>
+<span style="font-family: Mangal, serif;">रणनिष्ठतया </span></p><p>
 
 
 
 
 
-
+</p>
