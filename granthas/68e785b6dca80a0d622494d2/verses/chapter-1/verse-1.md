@@ -5,4 +5,31 @@ chapterNumber: 1
 verseNumber: 1
 ---
 
-प्रणम्य चरणाम्भोजयुगलं कमलापतेः ।<br>प्रमाणपद्धतिं कुर्मो बालानां बोधसिद्धये ॥
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><span style="font-family: Mangal, serif;">प्रणम्य चरणाम्भोजयुगलं कमलापतेः ।</span><br>
+<span style="font-family: Mangal, serif;">प्रमाणपद्धतिं
+कुर्मो बालानां बोधसिद्धये ॥</span></p>
+
+
+
+
+
+
