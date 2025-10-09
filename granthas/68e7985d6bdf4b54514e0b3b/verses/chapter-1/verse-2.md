@@ -7,5 +7,4 @@ verseNumber: 2
 
 <span style="font-size: 1.1em; font-family: Shobhika, serif;">सञ्जय उवाच ।
 
-दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।
-आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥२॥</span>
+दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।</span><p><br></p><span style="font-size: 1.1em; font-family: Shobhika, serif;">आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥२॥</span>
