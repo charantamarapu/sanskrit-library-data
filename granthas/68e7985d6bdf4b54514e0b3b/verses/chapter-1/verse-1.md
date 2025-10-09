@@ -28,11 +28,11 @@ verseNumber: 1
 उवाच</span></strong><strong><span style="font-size: 18pt;"></span></strong></p><p>
 
 </p><p><strong><span style="font-size: 18pt;">धर्मक्षेत्रे कुरुक्षेत्रे समवेता
-युयुत्सवः ।</span></strong><strong><span style="font-size: 18pt;"></span></strong></p><p>
-
-<strong><span style="font-size: 18pt; font-family: &quot;Sanskrit Text&quot;, serif;">मामकाः पाण्डवाश्चैव
-किमकुर्वत सञ्जय ॥ १ ॥</span></strong>
+युयुत्सवः ।</span></strong><strong><span style="font-size: 18pt;"><br>
+मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥ १ ॥</span></strong><strong><span style="font-size: 18pt;"></span></strong></p><p>
 
 
 
-<br></p>
+
+
+</p>
