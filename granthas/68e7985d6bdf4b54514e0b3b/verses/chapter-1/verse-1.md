@@ -5,35 +5,9 @@ chapterNumber: 1
 verseNumber: 1
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p><strong><span style="font-size: 18pt;">धृतराष्ट्र उवाच</span></strong><strong><span style="font-size: 18pt;"></span></strong></p>
 
 <p><strong><span style="font-size: 18pt;">धर्मक्षेत्रे कुरुक्षेत्रे समवेता
-युयुत्सवः ।</span></strong><strong><span style="font-size: 18pt;"></span></strong></p>
-
+युयुत्सवः ।</span></strong></p>
 <p><strong><span style="font-size: 18pt;">मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥ १
 ॥</span></strong><strong><span style="font-size: 18pt;"></span></strong></p>
-
-
-
-
-
-
