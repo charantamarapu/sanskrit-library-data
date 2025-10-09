@@ -5,7 +5,6 @@ chapterNumber: 1
 verseNumber: 1
 ---
 
-<p><br>
 
 
 
@@ -24,12 +23,12 @@ verseNumber: 1
 
 
 
-</p><p><span style="font-family: Mangal, serif;">प्रणम्य चरणाम्भोजयुगलं कमलापतेः ।</span></p><p>
 
-</p><p><span style="font-family: Mangal, serif;">प्रमाणपद्धतिं कुर्मो बालानां बोधसिद्धये ॥</span></p><p>
-
-
+<p><span style="font-family: Mangal, serif;">प्रणम्य चरणाम्भोजयुगलं कमलापतेः ।</span><br>
+<span style="font-family: Mangal, serif;">प्रमाणपद्धतिं कुर्मो बालानां बोधसिद्धये ॥</span></p>
 
 
 
-</p>
+
+
+
