@@ -7,5 +7,4 @@ verseNumber: 1
 
 <span style="font-size: 1.1em; font-family: Shobhika, serif;">        धृतराष्ट्र उवाच ।
 
-धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।
-मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥१॥</span>
+धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।</span><p><br></p><span style="font-size: 1.1em; font-family: Shobhika, serif;">मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥१॥</span>
