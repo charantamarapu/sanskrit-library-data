@@ -1,0 +1,65 @@
+{
+  "_id": "68e7307d783dd5503360deb1",
+  "title": "प्रमाणपद्धतिः",
+  "titleEnglish": "Pramanapaddhati",
+  "author": "श्री जयतीर्थः",
+  "authorEnglish": "",
+  "description": "With 8 commentaries ",
+  "language": "Sanskrit",
+  "category": "Philosophical",
+  "status": "published",
+  "chapterLabel": "परिच्छेदः",
+  "verseLabel": "वाक्यम्",
+  "chapterLabelEnglish": "Chapter",
+  "verseLabelEnglish": "Verse",
+  "availableCommentaries": [
+    {
+      "name": "जनार्दनीयम्",
+      "author": "",
+      "order": 0,
+      "_id": "68e411926d935f3f9b32f00c"
+    },
+    {
+      "name": "श्रीराघवेन्द्रतीर्थविरचितः प्रमाणपद्धतिभावदीपः",
+      "author": "",
+      "order": 1,
+      "_id": "68e412646d935f3f9b32f016"
+    },
+    {
+      "name": "श्रीविजयीन्द्रतीर्थविरचिता ",
+      "author": "",
+      "order": 2,
+      "_id": "68e412646d935f3f9b32f017"
+    },
+    {
+      "name": "श्रीवेदेशभिक्षुविरचिता",
+      "author": "",
+      "order": 3,
+      "_id": "68e412646d935f3f9b32f018"
+    },
+    {
+      "name": "श्रीसत्यनाथतीर्थविरचितम् अभिनवामृतम्",
+      "author": "",
+      "order": 4,
+      "_id": "68e412646d935f3f9b32f019"
+    },
+    {
+      "name": "श्रीव्यासपुरी नरसिंहविरचितः आदर्शः",
+      "author": "",
+      "order": 5,
+      "_id": "68e412646d935f3f9b32f01a"
+    },
+    {
+      "name": "श्रीनिवासतीर्थविरचिता वाक्यार्थमञ्जरी",
+      "author": "",
+      "order": 6,
+      "_id": "68e412646d935f3f9b32f01b"
+    },
+    {
+      "name": "श्रीविट्टलभट्टविरचिता",
+      "author": "",
+      "order": 7,
+      "_id": "68e412646d935f3f9b32f01c"
+    }
+  ]
+}
